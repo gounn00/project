@@ -4,7 +4,9 @@
 
 ## 2020
 ### 🌟 YOLO를 통한 가위바위보 판정 프로그램 (YoloCustom_RSP)
-- 언어 및 작업툴: Python, Vscode, Google Colab
+- 언어 및 작업툴
+    - Vscode : Python 3.9.1
+    - Google Colab
 - 인원: 3명
 - 기간: 2020.12.28 ~ 2020.12.31
 - 내용
@@ -17,7 +19,10 @@
 
 ### 🌟 RaspPi와 RC Car를 이용한 안드로이드 앱 제작 (RaspPi_RC_Car)
 라즈베리 파이와 안드로이드 앱을 이용하여 자동차 모형을 움직이는 프로젝트 입니다. 
-- 언어 및 작업툴: Python, Vscode, Java, Android Studio, Raspberry Pi
+- 언어 및 작업툴
+    - Vscode : Python 3.9.1
+    - Android Studio : Java
+    - Raspberry Pi
 - 인원: 5명
 - 기간: 2020.11.02 ~ 2020.11.26
 - 내용
