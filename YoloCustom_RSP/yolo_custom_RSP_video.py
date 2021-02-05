@@ -101,19 +101,19 @@ def detectAndDisplay(image):
             cv2.putText(img, tie_label, (int(width/2)-150, int(height/2)+50), font, 10, color, 7)
 
         else:
-            # 묵vs찌
+            # Rock vs Scissors
             if rsp_flag[0] == 1 and rsp_flag[1] == 1 and rsp_flag[2] == 0:
                 win = 'Rock'
                 lose = 'Scissors'
                 RSP_output(win, lose, img, indexes, names, boxes, font, colors)
                 
-            # 묵vs빠
+            # Rock vs Paper
             elif rsp_flag[0] == 1 and rsp_flag[1] == 0 and rsp_flag[2] == 1:
                 win = 'Paper'
                 lose = 'Rock'
                 RSP_output(win, lose, img, indexes, names, boxes, font, colors)
             
-            # 찌vs빠
+            # Scissors vs Paper
             elif rsp_flag[0] == 0 and rsp_flag[1] == 1 and rsp_flag[2] == 1:
                 win = 'Scissors'
                 lose = 'Paper'

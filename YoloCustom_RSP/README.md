@@ -2,7 +2,7 @@
 - 프로젝트명: RSP (Rock Scissors Paper)
 - 참여기간: 2020.12.28 ~ 2020.12.31 (4일)
 - 참여인원: 3명 (김기영, 옥진해, 전고은)
-- 역할:
+- 역할: 가위바위보 판정 코드 작성
 - 프로젝트 세부내용
     - 가위, 바위, 보 이미지의 직접적인 Labeling을 통한 이미지 데이터 학습
     - 학습 결과을 이용한 Webcam으로 가위바위보 판정
@@ -17,7 +17,8 @@
 
 ## Files
 ### GameCustomYolo.ipynb
-    Google Colab에서 Yolo을 이용하여 학습을 할 수 있는 파일입니다.
+    Yolo을 이용하여 이미지 데이터 학습을 할 수 있는 과정이 있습니다.
+    이번 학습은 Google Colab에서 이루어졌습니다.
 
 ### yolo_custom_RSP_video.py
     OpenCV(DNN), Yolo v3(Darknet), Webcam을 활용하여 학습된 가위바위보 모델을 검증하여 출력해주는 코드입니다.
@@ -43,3 +44,8 @@
         * mask : 3 ( color : r, g, b)
 - test.txt : test 데이터 지정
 - train.txt : train 데이터 지정
+
+## Demo
+[YOLO를 통한 가위바위보 학습 - 1인의 경우](https://youtu.be/Efdvvv-RvF0)
+[YOLO를 통한 가위바위보 학습 - 2인의 경우](https://youtu.be/x7iqZd_DmKQ)
+[YOLO를 통한 가위바위보 학습 - 3인 이상의 경우](https://youtu.be/87-4rrAkaCc)
