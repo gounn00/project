@@ -5,13 +5,13 @@
 ## 2020
 ### 🌟 YOLO를 통한 가위바위보 판정 프로그램 (YoloCustom_RSP)
 - 언어 및 작업툴
-    - Vscode : Python 3.9.1
+    - Vscode : Python
     - Google Colab
 - 인원: 3명
 - 기간: 2020.12.28 ~ 2020.12.31
 - 내용
-    - 가위, 바위, 보의 Labeling을 통한 이미지 데이터 학습
-    - 학습 결과을 이용하여 Webcam으로 가위바위보 판정
+    - 가위, 바위, 보 이미지의 직접적인 Labeling을 통한 이미지 데이터 학습
+    - 학습 결과을 이용한 Webcam으로 가위바위보 판정
         - 1인일 경우 : 3가지중 어떤 것인지 출력
         - 2인 이상일 경우 : 3가지중 어떤 것인지 출력, 승패 확인
 - 기여: 가위바위보 판정 코드 작성
@@ -20,7 +20,7 @@
 ### 🌟 RaspPi와 RC Car를 이용한 안드로이드 앱 제작 (RaspPi_RC_Car)
 라즈베리 파이와 안드로이드 앱을 이용하여 자동차 모형을 움직이는 프로젝트 입니다. 
 - 언어 및 작업툴
-    - Vscode : Python 3.9.1
+    - Vscode : Python
     - Android Studio : Java
     - Raspberry Pi
 - 인원: 5명
