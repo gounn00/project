@@ -25,7 +25,7 @@
     - 준비물 : Webcam
 
 ## Directory
-### game_custom 
+### data 
 - 이미지 파일(.jpg) : 102장
 - 이미지 라벨링 파일(.txt) : 102개
 
