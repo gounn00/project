@@ -1,10 +1,10 @@
 # Project
 ## 2021
-### 🌟 Kaggle Analytics Competition: Acea Smart Water Analytics ()
+### 🌟 Kaggle Analytics Competition: Acea Smart Water Analytics (Acea_Smart_Water_Analytics)
 - 언어 및 작업툴(言語及び作業ツール)
     - Google Colab: Python
     - Kaggle Notebook
-- 인원(人員): 3명
+- 인원(人員): 3명(名)
 - 기간(期間): 2021.02.08 ~ 2021.02.17
 - 내용(内容)
     - To select convincing features and build model which can predict each type of water body level in Italy To forecast the water level in a waterbody (water spring, lake, river, or aquifer) to handle daily consumption for help Acea Group preserve precious water bodies
